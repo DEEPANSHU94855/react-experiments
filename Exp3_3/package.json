@@ -1,8 +1,6 @@
 {
-  "name": "product-stock",
-  "homepage": "https://deepanshu94855.github.io/react-experiments",
-
-
+  "name": "Exp3_3",
+  "homepage": "https://deepanshu94855.github.io/react-experiments/Exp3_3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,9 +15,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "npx gh-pages -d build --dest Exp3_3"
   },
   "eslintConfig": {
     "extends": [
@@ -40,9 +38,6 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.24",
-    "gh-pages": "^6.3.0",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^3.4.17"
+    "gh-pages": "^6.3.0"
   }
 }
