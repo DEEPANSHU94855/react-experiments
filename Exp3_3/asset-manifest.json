@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-experiments/Exp3_3/static/css/main.f855e6bc.css",
-    "main.js": "/react-experiments/Exp3_3/static/js/main.f148d156.js",
-    "static/js/453.cb3638e8.chunk.js": "/react-experiments/Exp3_3/static/js/453.cb3638e8.chunk.js",
-    "static/media/logo.svg": "/react-experiments/Exp3_3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-experiments/Exp3_3/static/css/main.e4443bc1.css",
+    "main.js": "/react-experiments/Exp3_3/static/js/main.216129f8.js",
     "index.html": "/react-experiments/Exp3_3/index.html",
-    "main.f855e6bc.css.map": "/react-experiments/Exp3_3/static/css/main.f855e6bc.css.map",
-    "main.f148d156.js.map": "/react-experiments/Exp3_3/static/js/main.f148d156.js.map",
-    "453.cb3638e8.chunk.js.map": "/react-experiments/Exp3_3/static/js/453.cb3638e8.chunk.js.map"
+    "main.e4443bc1.css.map": "/react-experiments/Exp3_3/static/css/main.e4443bc1.css.map",
+    "main.216129f8.js.map": "/react-experiments/Exp3_3/static/js/main.216129f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f148d156.js"
+    "static/css/main.e4443bc1.css",
+    "static/js/main.216129f8.js"
   ]
 }
