@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-experiments/Exp3_3/static/css/main.e4443bc1.css",
+    "main.js": "/react-experiments/Exp3_3/static/js/main.216129f8.js",
+    "index.html": "/react-experiments/Exp3_3/index.html",
+    "main.e4443bc1.css.map": "/react-experiments/Exp3_3/static/css/main.e4443bc1.css.map",
+    "main.216129f8.js.map": "/react-experiments/Exp3_3/static/js/main.216129f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4443bc1.css",
+    "static/js/main.216129f8.js"
+  ]
+}
